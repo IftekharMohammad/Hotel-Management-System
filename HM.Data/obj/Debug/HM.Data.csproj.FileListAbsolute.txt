@@ -1,0 +1,6 @@
+C:\Users\Iftekhar\source\repos\HotelManagement\HM.Data\bin\Debug\HM.Data.dll
+C:\Users\Iftekhar\source\repos\HotelManagement\HM.Data\bin\Debug\HM.Data.pdb
+C:\Users\Iftekhar\source\repos\HotelManagement\HM.Data\obj\Debug\HM.Data.csprojResolveAssemblyReference.cache
+C:\Users\Iftekhar\source\repos\HotelManagement\HM.Data\obj\Debug\HM.Data.csproj.CoreCompileInputs.cache
+C:\Users\Iftekhar\source\repos\HotelManagement\HM.Data\obj\Debug\HM.Data.dll
+C:\Users\Iftekhar\source\repos\HotelManagement\HM.Data\obj\Debug\HM.Data.pdb
